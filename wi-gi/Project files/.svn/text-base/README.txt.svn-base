@@ -1,0 +1,5 @@
+This folder contains all the main project files
+
+Mouse: 		codeblocks project
+Reciever: 	Arduino project
+Designs: 	Eagle cad project(In the process of converting this to kiCad)--searching for them on my system

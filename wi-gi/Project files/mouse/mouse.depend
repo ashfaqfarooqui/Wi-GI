@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1336800085 source:/home/ashfaq/Documents/mouse/main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+
