@@ -1,0 +1,13 @@
+The project using as accelerometer to take in the tilt from the default position translating this to a numerical value also input from 2 buttons and a joystick (for scroll). this data is transmitted over a wireless channel (433Mhz) to a receiver which converts this data to computer understandable mouse codes over PS/2 interface
+
+    Copyright (C) 2012  Ashfaq Farooqui
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
